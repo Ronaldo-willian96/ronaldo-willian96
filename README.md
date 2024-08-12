@@ -2,14 +2,14 @@
 <br>
 <br> 
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronaldo-willian96&theme=tokyonight)](https://git.io/streak-stats))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronaldo-willian96&theme=tokyonight)](https://git.io/streak-stats))
 
 </div>
 
