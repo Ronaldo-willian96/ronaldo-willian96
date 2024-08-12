@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian)](https://git.io/typing-svg))
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -64,9 +64,5 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="<img src="<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRonaldo-willian96&s=50&c=0062ff&bg=00000000&no=2&ff=digi&tb=Visits+%3A+&ta=" alt="visits">"/></p> 
-<br>
-</div>
+
 
