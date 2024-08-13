@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian;I'm+26+years+old;I+am+from+Brazil)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian;I'm+26+years+old;I+am+from+Brazil)
 
 <br>
 <br>
