@@ -1,15 +1,14 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/116fec39-457e-4577-addb-7ab553bfa88a"/>
+<img width=90% bottom=100px src="https://github.com/user-attachments/assets/116fec39-457e-4577-addb-7ab553bfa88a"/>
 <br>
 <br> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian;I'm+27+years+old;I+am+from+Brazil)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1C74C4Dcenter=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Ronaldo;I'm+27+years+old;I'm+a+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
 
-<div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronaldo-willian96&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronaldo-willian96&theme=Blue-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
@@ -35,9 +34,10 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/c4ce73d1-a204-470f-8236-953a44c42e1f) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ronaldo-willian96?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=Blue) 
 
 </div>
+>
 
 
 ### Main skills:
@@ -65,11 +65,12 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="center"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ronaldo-wiillian96}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fronaldo-willian96&s=50&c=db0066&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
+
 
 
 
