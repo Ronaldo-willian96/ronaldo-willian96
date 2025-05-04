@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian;I'm+26+years+old;I+am+from+Brazil)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Ronaldo+Willian;I'm+27+years+old;I+am+from+Brazil)
 
 <br>
 <br>
@@ -49,6 +49,7 @@
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/16420c9b-bead-4f98-8c59-6cb1e9004071">
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f36297ad-285e-40c5-b569-8e274c3c8b84">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/934fc8a6-cd52-42c8-8fce-25e112f6e33d">
 
@@ -63,6 +64,13 @@
 <br>
 <br>
 <br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ronaldo-wiillian96}/count.svg" /></p> 
+<br>
+</div>
+
 
 
 
