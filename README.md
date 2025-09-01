@@ -57,6 +57,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/d9180e94-fe27-4a11-9cce-56d9da72c405">
 
+<img align="left" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
 
 
 </div>
