@@ -60,6 +60,7 @@
 <img align="left" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
 
 
+
 </div>
 <br>
 <br>
